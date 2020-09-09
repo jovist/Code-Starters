@@ -1,0 +1,55 @@
+body{
+	width: 1400px;
+	height: 900px;
+	background-color: #3DB8B6;
+
+
+}
+#sportnews1{
+	width: 600px;
+	height:800px;
+	background-color: #9F6F8E;
+	border: none;
+	float: left;
+	margin-left: 100px;
+}
+#sportnews2{
+	width: 600px;
+	height:800px;
+	background-color: #9F6F8E;
+	border: none;
+	float:left;
+	margin-left: 100px;
+
+}
+img{
+	width: 600px;
+	height: 300px;
+
+}
+.dug1{
+	width: 592px;
+	height: 70px;
+}
+.dug{
+	width: 50px
+	height: 15px;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: rgb( 124 ,79, 202 );
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em #2B84D2;
+
+}
+#pic2{
+	padding-top:  24px;
+	margin-bottom: 17px;
+}
+#com{
+	padding-top: 25px 5px 15px 5px; 
+
+}
+a:visited{
+	color: #C43011;
+}

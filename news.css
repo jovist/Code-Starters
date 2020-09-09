@@ -1,0 +1,98 @@
+body{
+	
+	width:1500px;
+	height: 900px;
+background-color: #F9F3C3;
+
+}
+img{
+	width: 320px;
+	height: 150px;
+	
+	
+}
+
+#first-news{
+width: 250px;
+float: left;
+margin-right: 120px;
+margin-left: 70px;
+
+}
+
+
+#second-news{
+
+width: 250px;
+float: left;
+margin-right: 45px
+margin-left:65px;
+padding-left:  150px;
+
+}
+
+#third-news{
+
+width: 250px;
+float: left;
+margin-right:30px;
+
+margin-left: 240px; 
+
+
+
+}
+.news{
+	clear: both;
+}
+
+.bottom-hl{
+	clear: both;
+	border: 3px solid blue;
+	padding: 25px;
+	margin-top: 80px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 45px;
+	color: #51CE41;
+	text-decoration: underline;
+}
+#slika{
+	margin-top:  34px;
+}
+#sport{
+	text-align: center;
+	text-transform: uppercase;
+	float: left;
+}
+#culutra{
+	text-align: center;
+	text-transform: uppercase;
+	float: right;
+}
+#put{
+	text-align: center;
+	text-transform: uppercase;
+	float: left;
+}
+#MainTitie{
+	text-align: center;
+	font-size: 50px;
+	color: rgb( 124 ,79, 202 );
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em #2B84D2;
+
+}
+h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 30px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	
+	color: #D22BBA;
+	background-color: #212669;
+}
+
+a:visited{
+	color: red;
+}
